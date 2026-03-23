@@ -1,0 +1,5 @@
+{
+  "name": "Local Explorer",
+  "description": "Discover top-rated local spots like restaurants, malls, and gaming centers in any area using Google Maps grounding.",
+  "requestFramePermissions": ["geolocation"]
+}
